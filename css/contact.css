@@ -1,0 +1,59 @@
+#contact {
+    background-color:none;
+    background: url("../assets/images/jumbotronpic.jpg") no-repeat center center;
+    /*background-image: url('../assets/images/jumbotronpic.jpg');*/
+    height: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: cover;
+    margin: 0px;
+    /* border: 3px; */
+    color: black;
+    /* border-top: solid 1px black; */
+    border-bottom: solid 1px black; 
+    height: 75vh;
+    /* width: 100vw;  */
+}
+
+#contact label {
+    margin-right: 600px; 
+    /* margin-left: 300px; */
+    /* width: 100px; */
+}
+
+ .form-control {                /*this is the info box area */
+    background: white;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+    margin-left: 0px; 
+
+} 
+
+.control-group {
+    margin-left: 240px;
+    color:black;
+} 
+
+#submit {
+    margin-left: 190px;
+    color:black;
+} 
+
+.send {                 /*This controls the Contact Me and Send Message names*/
+    background:black;
+    border-top: solid 1px black;
+    border-bottom: solid 1px black;
+    border-left: solid 1px black;
+    border-right: solid 1px black;
+    width: 200px; 
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    text-align: center;
+}
